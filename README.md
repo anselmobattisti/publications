@@ -32,7 +32,7 @@ keywords = {Service function chain, Virtual network function, Migration, Edge co
 **Title:** A Domain-Specific Language for Multimedia Service Function Chains based on Virtualization of Sensors
 
 * [Article](2024/WebMedia/paper-webmedia-2024.pdf)  
-* s[Presentation](2024/WebMedia/presentation-webmedia-2024.pdf)
+* [Presentation](2024/WebMedia/presentation-webmedia-2024.pdf)
 
 How to cite
 
@@ -228,7 +228,7 @@ How to cite
   doi={10.1109/WF-IoT48130.2020.9221199}}
 ```
 
-### Master’s Dissertation in Computer Science
+### Master’s Dissertation in Computer Science ⭐
 
 **Title:**  V-PRISM: AN EDGE-BASED ARCHITECTURE TO VIRTUALIZE MULTIMEDIA SENSORS IN THE INTERNET OF MEDIA THINGS
 
@@ -268,7 +268,7 @@ ON THE OUTCOME IN WEB START-UPS BRAZILIAN
 
 * [article](2015/CONTECSI/artigo.pdf)
 
-### Master’s Dissertation in Strategic Business
+### Master’s Dissertation in Strategic Business ⭐
 
 **Title:** A INFLUÊNCIA DA INOVATIVIDADE E DO FINANCIAMENTO SOBRE O
 RESULTADO EM WEB START-UPS BRASILEIRAS
