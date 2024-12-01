@@ -92,6 +92,8 @@ How to cite
 
 * [Article](2023/NetSoft/article.pdf)
 
+How to cite
+
 ```bibitex
 @INPROCEEDINGS{10175437,
   author={Vieira, Juan Lucas and Battisti, Anselmo L. E. and Macedo, Evandro L. C. and Pires, Paulo F. and Muchaluat-Saade, Débora C. and Delicato, Flavia C. and Oliveira, Ana C. B.},
@@ -239,6 +241,23 @@ How to cite
 **Title:** A influência da inovatividade e do financiamento sobre o resultado em web startups brasileiras
 
 * [article](2018/P2P/article.pdf)
+
+```bibitex
+@article{Battisti2018,
+  title = {A influ\^encia da inovatividade e do financiamento sobre o resultado em web startups brasileiras},
+  volume = {5},
+  ISSN = {2358-7814},
+  url = {http://dx.doi.org/10.21721/p2p.2018v5n1.p43-69},
+  DOI = {10.21721/p2p.2018v5n1.p43-69},
+  number = {1},
+  journal = {P2P E INOVAundefinedÃO},
+  publisher = {Logeion Filosofia da Informacao},
+  author = {Battisti,  Anselmo and Quandt,  Carlos Olavo},
+  year = {2018},
+  month = sep,
+  pages = {43–69}
+}
+```
 
 ## 2015
 
