@@ -61,6 +61,20 @@ Edge-Cloud Environments
 * [Article](2024/CloudNet/paper.pdf)  
 * [Presentation](2024/CloudNet/presentation.pdf)
 
+How to cite
+
+```bibitex
+@INPROCEEDINGS{10815829,
+  author={Éden Battisti, Anselmo Luiz and Delicato, Flavia C. and Muchaluat-Saade, Débora Christina},
+  booktitle={2024 IEEE 13th International Conference on Cloud Networking (CloudNet)}, 
+  title={A Novel Method for SFC Segmentation in Edge-Cloud Environments}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Cloud computing;Costs;Service function chaining;Stars;Complex networks;Network function virtualization;Topology;Bars;Service Function Chain;SFC placement;SFC segmentation},
+  doi={10.1109/CloudNet62863.2024.10815829}}
+```
 
 ## 2023
 
