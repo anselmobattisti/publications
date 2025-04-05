@@ -78,6 +78,14 @@ How to cite
 
 ## 2023
 
+### Ph.D. Qualification 💬
+
+**Title:** SPEED - SFC Placement in Edge-cloud Environment: a Distributed approach
+
+* [Text](2023/QualificacaoDoutorado/proposta_de_tese_anselmo_sub.pdf)
+* [Presentation](2023/QualificacaoDoutorado/qualificacao-anselmo-ajustada-3.pptx)
+
+
 ### CloudNet 💬
 
 **Title:** A MAPE-K and Queueing Theory Approach for VNF Auto-scaling in Edge Computing 
