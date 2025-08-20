@@ -8,7 +8,7 @@ This repository contains articles and presentations of works that I have produce
 
 **Title:** L-PRISM: A Domain-Specific Language for Describing Multimedia Service Function Chains.
 
-* [Article](2025/JBCS/jbcs-article.pdf)
+* [Article](docs/2025/JBCS/jbcs-article.pdf)
 
 How to cite
 
@@ -33,7 +33,7 @@ How to cite
 
 **Title:** Mobility-aware SFC migration in dynamic 5G-Edge networks.
 
-* [Article](2024/ComputerNetworks/article.pdf)  
+* [Article](docs/2024/ComputerNetworks/article.pdf)  
 
 How to cite
 
@@ -56,8 +56,8 @@ keywords = {Service function chain, Virtual network function, Migration, Edge co
 
 **Title:** A Domain-Specific Language for Multimedia Service Function Chains based on Virtualization of Sensors
 
-* [Article](2024/WebMedia/paper-webmedia-2024.pdf)  
-* [Presentation](2024/WebMedia/presentation-webmedia-2024.pdf)
+* [Article](docs/2024/WebMedia/paper-webmedia-2024.pdf)  
+* [Presentation](docs/2024/WebMedia/presentation-webmedia-2024.pdf)
 
 How to cite
 
@@ -83,8 +83,8 @@ How to cite
 **Title:** A Novel Method for SFC Segmentation in
 Edge-Cloud Environments
 
-* [Article](2024/CloudNet/paper.pdf)  
-* [Presentation](2024/CloudNet/presentation.pdf)
+* [Article](docs/2024/CloudNet/paper.pdf)  
+* [Presentation](docs/2024/CloudNet/presentation.pdf)
 
 How to cite
 
@@ -107,15 +107,15 @@ How to cite
 
 **Title:** SPEED - SFC Placement in Edge-cloud Environment: a Distributed approach
 
-* [Text](2023/QualificacaoDoutorado/proposta_de_tese_anselmo_sub.pdf)
-* [Presentation](2023/QualificacaoDoutorado/qualificacao-anselmo-ajustada-3.pptx)
+* [Text](docs/2023/QualificacaoDoutorado/proposta_de_tese_anselmo_sub.pdf)
+* [Presentation](docs/2023/QualificacaoDoutorado/qualificacao-anselmo-ajustada-3.pptx)
 
 
 ### CloudNet 💬
 
 **Title:** A MAPE-K and Queueing Theory Approach for VNF Auto-scaling in Edge Computing 
 
-* [Article](2023/CloudNet/article.pdf)
+* [Article](docs/2023/CloudNet/article.pdf)
 
 How to cite 
 
@@ -137,7 +137,7 @@ How to cite
 **Title:** Dynamic and Mobility-Aware VNF Placement in
 5G-Edge Computing Environments
 
-* [Article](2023/NetSoft/article.pdf)
+* [Article](docs/2023/NetSoft/article.pdf)
 
 How to cite
 
@@ -157,7 +157,7 @@ How to cite
 
 **Title:** Distributed Auction-Based SFC Placement in a Multi-domain 5G Environment
 
-* [Article](2023/SN-Computer-Science/article.pdf)  
+* [Article](docs/2023/SN-Computer-Science/article.pdf)  
 
 How to Cite
 
@@ -179,7 +179,7 @@ How to Cite
 
 **Title:** A Novel Strategy for VNF Placement in Edge Computing Environments.
 
-* [Article](2022/MDPI/article.pdf)
+* [Article](docs/2022/MDPI/article.pdf)
 
 How to cite
 
@@ -206,7 +206,7 @@ How to cite
 
 **Title:** Enabling Internet of Media Things With Edge-Based Virtual Multimedia Sensors
 
-* [Article](2021/IEEEAccess/article.pdf)
+* [Article](docs/2021/IEEEAccess/article.pdf)
 
 
 How to cite
@@ -230,7 +230,7 @@ How to cite
 
 **Title:** Uma Proposta de Arquitetura para Virtualização de Sensores Multimídia na Borda da Rede
 
-* [Article](2020/WGRS/article.pdf)
+* [Article](docs/2020/WGRS/article.pdf)
 
 How to cite
 
@@ -256,9 +256,9 @@ How to cite
 **Title:** V-PRISM: An Edge-Based IoT Architecture to Virtualize Multimedia Sensors
 
 
-* [Article](2020/WF-IoT/artigo.pdf)
-* [Presentation](2020/WF-IoT/presentation.pdf)
-* [Video Presentation](2020/WF-IoT/video-presentation.mp4)
+* [Article](docs/2020/WF-IoT/artigo.pdf)
+* [Presentation](docs/2020/WF-IoT/presentation.pdf)
+* [Video Presentation](docs/2020/WF-IoT/video-presentation.mp4)
 
 How to cite
 
@@ -279,7 +279,7 @@ How to cite
 
 **Title:**  V-PRISM: AN EDGE-BASED ARCHITECTURE TO VIRTUALIZE MULTIMEDIA SENSORS IN THE INTERNET OF MEDIA THINGS
 
-* [Dissertation](2020/2020-mestrado-comptuacao.pdf)
+* [Dissertation](docs/2020/2020-mestrado-comptuacao.pdf)
 
 ## 2018
 
@@ -287,7 +287,7 @@ How to cite
 
 **Title:** A influência da inovatividade e do financiamento sobre o resultado em web startups brasileiras
 
-* [article](2018/P2P/article.pdf)
+* [article](docs/2018/P2P/article.pdf)
 
 ```bibitex
 @article{Battisti2018,
@@ -313,14 +313,14 @@ How to cite
 **Title:** AN ASSESSMENT OF THE INFLUENCE OF INNOVATIVENESS AND FINANCING
 ON THE OUTCOME IN WEB START-UPS BRAZILIAN
 
-* [article](2015/CONTECSI/artigo.pdf)
+* [article](docs/2015/CONTECSI/artigo.pdf)
 
 ### Master’s Dissertation in Strategic Business ⭐
 
 **Title:** A INFLUÊNCIA DA INOVATIVIDADE E DO FINANCIAMENTO SOBRE O
 RESULTADO EM WEB START-UPS BRASILEIRAS
 
-* [Dissertation](2015/2015-mestrado-adm.pdf)
+* [Dissertation](docs/2015/2015-mestrado-adm.pdf)
 
 ## 2014
 
@@ -329,7 +329,7 @@ RESULTADO EM WEB START-UPS BRASILEIRAS
 **Title:** A e-PARTICIPAÇÃO COMO FERRAMENTA DE TRANSFORMAÇÃO SOCIAL –
 UM ESTUDO DE CASO
 
-* [article](2014/CONTECSI/artigo.pdf)
+* [article](docs/2014/CONTECSI/artigo.pdf)
 
 ## 2009
 
@@ -338,7 +338,7 @@ UM ESTUDO DE CASO
 **Title:** ESPERTO - Uma Ferramenta Web Para o Desenvolvimento
 Colaborativo e Uso de Sistemas Especialistas de Classificação
 
-* [Artigo](2009/2009-especializacao.pdf)
+* [Artigo](docs/2009/2009-especializacao.pdf)
 
 ## 2007
 
@@ -346,4 +346,4 @@ Colaborativo e Uso de Sistemas Especialistas de Classificação
 
 **Title:** Usabilidade em Sistemas Web - Um Estudo de Caso
 
-* [TCC](2007/2007-graduacao.pdf)
+* [TCC](docs/2007/2007-graduacao.pdf)
