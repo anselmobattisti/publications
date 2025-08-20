@@ -2,6 +2,31 @@
 
 This repository contains articles and presentations of works that I have produced in collaboration with many colleagues over the years.
 
+## 2025
+
+### Journal of the Brazilian Computer Society 📰
+
+**Title:** L-PRISM: A Domain-Specific Language for Describing Multimedia Service Function Chains.
+
+* [Article](2025/JBCS/5453-Article Text-30762-1-10-20250805.pdf)  
+
+How to cite
+
+```bibitex
+@article{Quico_2025, 
+  title={L-PRISM: A Domain-Specific Language for Describing Multimedia Service Function Chains}, 
+  volume={31}, 
+  url={https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5453}, 
+  DOI={10.5753/jbcs.2025.5453}, 
+  number={1}, 
+  journal={Journal of the Brazilian Computer Society}, 
+  author={Quico, Franklin J. V. and Battisti, Anselmo L. E. and Muchaluat-Saade, Débora and Delicato, Flavia C.}, 
+  year={2025}, 
+  month={8}, 
+  pages={545–569}
+}
+```
+
 ## 2024
 
 ### Computer Networks 📰
