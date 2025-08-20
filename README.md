@@ -8,7 +8,7 @@ This repository contains articles and presentations of works that I have produce
 
 **Title:** L-PRISM: A Domain-Specific Language for Describing Multimedia Service Function Chains.
 
-* [Article](2025/JBCS/5453-Article Text-30762-1-10-20250805.pdf)  
+* [Article](2025/JBCS/jbcs-article.pdf)
 
 How to cite
 
