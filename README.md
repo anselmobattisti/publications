@@ -280,6 +280,7 @@ How to cite
 **Title:**  V-PRISM: AN EDGE-BASED ARCHITECTURE TO VIRTUALIZE MULTIMEDIA SENSORS IN THE INTERNET OF MEDIA THINGS
 
 * [Dissertation](docs/2020/2020-mestrado-comptuacao.pdf)
+* [Presentation](https://www.youtube.com/watch?v=LnwZzGuZkVM&t=1967s)
 
 ## 2018
 
