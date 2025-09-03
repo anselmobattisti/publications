@@ -4,6 +4,13 @@ This repository contains articles and presentations of works that I have produce
 
 ## 2025
 
+### Master’s Dissertation in Computer Science ⭐
+
+**Title:**  SPEED - SFC Placement in Edge-Cloud Continuum: a Distributed Approach
+
+* [Thesis](docs/2025/Tese/tese.pdf)
+* [Presentation](docs/2025/Tese/apresentacao-defesa.pdf)
+
 ### Journal of the Brazilian Computer Society 📰
 
 **Title:** L-PRISM: A Domain-Specific Language for Describing Multimedia Service Function Chains.
