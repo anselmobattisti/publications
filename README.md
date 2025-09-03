@@ -4,7 +4,7 @@ This repository contains articles and presentations of works that I have produce
 
 ## 2025
 
-### Master’s Dissertation in Computer Science ⭐
+### PhD Thesis in Computer Science ⭐
 
 **Title:**  SPEED - SFC Placement in Edge-Cloud Continuum: a Distributed Approach
 
