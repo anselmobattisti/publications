@@ -2,6 +2,8 @@
 
 This repository contains articles and presentations of works that I have produced in collaboration with many colleagues over the years.
 
+To view the full list of my academic projects and research, please visit my Lattes CV: http://lattes.cnpq.br/6937214674204474
+
 ## 2025
 
 ### PhD Thesis in Computer Science ⭐
@@ -182,7 +184,7 @@ How to Cite
 ```
 ## 2022
 
-### MDPI 📰
+### Future Internet 📰
 
 **Title:** A Novel Strategy for VNF Placement in Edge Computing Environments.
 
