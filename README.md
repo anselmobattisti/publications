@@ -341,6 +341,15 @@ UM ESTUDO DE CASO
 
 * [article](docs/2014/CONTECSI/artigo.pdf)
 
+## 2008
+
+### ABENO
+
+**Title:** Inovação tecnológica no ensino de Odontologia - software SISO – Sistema Odontológico da UNIOESTE
+
+* [Artigo](docs/2008/siso.pdf)
+
+
 ## 2009
 
 ### Especialização 
