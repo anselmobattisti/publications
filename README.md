@@ -4,6 +4,30 @@ This repository contains articles and presentations of works that I have produce
 
 To view the full list of my academic projects and research, please visit my Lattes CV: http://lattes.cnpq.br/6937214674204474
 
+## 2026
+
+### Annals of Telecommunications 📰
+
+**Title:** Speed: a distributed approach for SFC placement in the edge-cloud continuum,
+
+* [Article](docs/2026/AnnalsOfTelecomunications/s12243-026-01157-w.pdf)
+
+How to cite
+
+```bibitex
+@article{Battisti2026,
+  title = {Speed: a distributed approach for SFC placement in the edge-cloud continuum},
+  ISSN = {1958-9395},
+  url = {http://dx.doi.org/10.1007/s12243-026-01157-w},
+  DOI = {10.1007/s12243-026-01157-w},
+  journal = {Annals of Telecommunications},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Battisti,  Anselmo Luiz Éden and Delicato,  Flavia C. and Muchaluat-Saade,  Débora Christina},
+  year = {2026},
+  month = feb 
+}
+```
+
 ## 2025
 
 ### PhD Thesis in Computer Science ⭐
